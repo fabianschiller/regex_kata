@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!-- 
+     Die Phase "Work Product 1" wurde versehentlich als Workproduct ausgezeichnet. Lösche alle Assoziationen die nicht zwischen "Work Product 1" und "Activity 1" angelegt sind
+     und benenne die anderen Assoziationen in in "execute"
+     
+ --> 
+
+<!--<!DOCTYPE pkit-data PUBLIC "-//method park Software AG//project kit Data 1.6//EN" "pkit-data_1_6.dtd">-->
+<pkit-data>
+<process exportGuid="_x-RMIL_rE7W4Te73cTKVrg" identity="_zOMi8L_rE7W4Te73cTKVrg" exportProjectName="regex-test" kind="process" metaModelIdent="activityoriented" stateEnabled="true" originalHost="PC" creationTimeString="Jun 5, 2013 11:03:36 PM" projectPath="Company|regex-test">
+<description>
+&lt;para&gt;Dies ist eine neu erzeugte Prozessbeschreibung.&lt;/para&gt;
+</description>
+<elements>
+<Tool exportGuid="_wqX6EMCVE7W4Te73cTKVrg" identity="_xaVXYMCVE7W4Te73cTKVrg" name="INDEX(Tool)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=33&amp;type=Tool" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Tool>
+<Method exportGuid="_B8qkAMEUE7W4Te73cTKVrg" identity="_CsoBUMEUE7W4Te73cTKVrg" name="INDEX(Method)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=304&amp;type=Method" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Method>
+<Standard exportGuid="_9iVLkL_zE7W4Te73cTKVrg" identity="_-SSo4L_zE7W4Te73cTKVrg" name="INDEX(Standard)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=23&amp;type=Standard" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Standard>
+<Resource exportGuid="_9I2FYMBzE7W4Te73cTKVrg" identity="_94y7oMBzE7W4Te73cTKVrg" name="INDEX(Resource)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=1100&amp;type=Resource" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Resource>
+<Metric exportGuid="_Zo2BEMD2E7W4Te73cTKVrg" identity="_abdw0MD2E7W4Te73cTKVrg" name="INDEX(Metric)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=323&amp;type=Metric" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Metric>
+<Training exportGuid="_4YeGAMDIE7W4Te73cTKVrg" identity="_5LF1wMDIE7W4Te73cTKVrg" name="INDEX(Training)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=23&amp;type=Training" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Training>
+<Workingset exportGuid="_2tK1oMEnE7W4Te73cTKVrg" identity="_3aeAgMEnE7W4Te73cTKVrg" name="INDEX(Workingset)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=60&amp;type=Workingset" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Workingset>
+<Article exportGuid="_hx3n8MFJE7W4Te73cTKVrg" identity="_ikfXsMFJE7W4Te73cTKVrg" name="INDEX(Article)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=21&amp;type=Article" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Article>
+<Category exportGuid="_DTWI0MFxE7W4Te73cTKVrg" identity="_EAosoMFxE7W4Te73cTKVrg" name="INDEX(Category)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=21&amp;type=Category" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Category>
+<Activity exportGuid="_KJehIB32E7e4Te73cTKVrg" identity="_D4P74PFmE7e4Te73cTKVrg" name="Activity 1" elementSubtype="activity" elementChildrenSubtype="activity" externalURL="http://localhost:8080/pkit/go/pelement.do?id=1745&amp;type=Activity" timestampAsString="Jun 5, 2013 11:13:30 PM" lastChangeUser="root" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Activity>
+<Activity exportGuid="__Sm-YO8JE7i4Te73cTKVrg" identity="_Mw-18EmJE7m4Te73cTKVrg" name="Activity 2" elementSubtype="activity" elementChildrenSubtype="activity" externalURL="http://localhost:8080/pkit/go/pelement.do?id=1746&amp;type=Activity" timestampAsString="Jun 5, 2013 11:13:40 PM" lastChangeUser="root" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Activity>
+<Activity exportGuid="_wUfbQMH2E7W4Te73cTKVrg" identity="_xHHLAMH2E7W4Te73cTKVrg" name="INDEX(Activity)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=1744&amp;type=Activity" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Activity>
+<Artifact exportGuid="_QFItwMHIE7W4Te73cTKVrg" identity="_QybRkMHIE7W4Te73cTKVrg" name="INDEX(Artifact)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=1158&amp;type=Artifact" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Artifact>
+<Artifact exportGuid="_sUqhgIUDE8m4Te73cTKVrg" identity="_gf9ZICmuE8q4Te73cTKVrg" name="Work Product 1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=1159&amp;type=Artifact" timestampAsString="Jun 5, 2013 11:13:40 PM" lastChangeUser="root" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Artifact>
+<Subprocess exportGuid="_X7mOEMJUE7W4Te73cTKVrg" identity="_Y2NcMMJUE7W4Te73cTKVrg" name="INDEX(Subprocess)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=23&amp;type=Subprocess" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Subprocess>
+<Annotation exportGuid="_gRrEkMLKE7W4Te73cTKVrg" identity="_hcR2gMLKE7W4Te73cTKVrg" name="INDEX(Annotation)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=34&amp;type=Annotation" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Annotation>
+<Role exportGuid="_2eEzUMLgE7W4Te73cTKVrg" identity="_3DX4wMLgE7W4Te73cTKVrg" name="INDEX(Role)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=240&amp;type=Role" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Role>
+<Phase exportGuid="_4sKuoML4E7W4Te73cTKVrg" identity="_5WyY8ML4E7W4Te73cTKVrg" name="INDEX(Phase)" indexModeNumber="1" externalURL="http://localhost:8080/pkit/go/pelement.do?id=221&amp;type=Phase" timestampAsString="Jun 5, 2013 11:03:36 PM" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Phase>
+<Phase exportGuid="_Rml9IPMfE7q4Te73cTKVrg" identity="_XPLCMC9XE7u4Te73cTKVrg" name="Phase1" elementSubtype="phase" elementChildrenSubtype="phase" externalURL="http://localhost:8080/pkit/go/pelement.do?id=222&amp;type=Phase" timestampAsString="Jun 5, 2013 11:06:09 PM" lastChangeUser="root" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Phase>
+<Phase exportGuid="_buNEUItFE724Te73cTKVrg" identity="_O2sqUMjmE724Te73cTKVrg" name="Phase 2" elementSubtype="phase" elementChildrenSubtype="phase" externalURL="http://localhost:8080/pkit/go/pelement.do?id=223&amp;type=Phase" timestampAsString="Jun 5, 2013 11:07:22 PM" lastChangeUser="root" tailorStatus="0" defaultTailorStatus="0" tailorMethod="0">
+</Phase>
+</elements>
+<associations>
+<association exportGuid="_xAQcsMj-E724Te73cTKVrg" identity="_xtjAgMj-E724Te73cTKVrg" sourceElementGuid="_KJehIB32E7e4Te73cTKVrg" targetElementGuid="_buNEUItFE724Te73cTKVrg" targetElementIdentity="_O2sqUMjmE724Te73cTKVrg" type="execute"></association>
+<association exportGuid="_LSSSYNujE8q4Te73cTKVrg" identity="_PMuHoNujE8q4Te73cTKVrg" sourceElementGuid="_KJehIB32E7e4Te73cTKVrg" targetElementGuid="_sUqhgIUDE8m4Te73cTKVrg" targetElementIdentity="_gf9ZICmuE8q4Te73cTKVrg" type="output"></association>
+<association exportGuid="_StlN4C95E7u4Te73cTKVrg" identity="_ctAEYC95E7u4Te73cTKVrg" sourceElementGuid="__Sm-YO8JE7i4Te73cTKVrg" targetElementGuid="_Rml9IPMfE7q4Te73cTKVrg" targetElementIdentity="_XPLCMC9XE7u4Te73cTKVrg" type="execute"></association>
+<association exportGuid="_vlMksDVRE8u4Te73cTKVrg" identity="_wSfIgDVRE8u4Te73cTKVrg" sourceElementGuid="__Sm-YO8JE7i4Te73cTKVrg" targetElementGuid="_sUqhgIUDE8m4Te73cTKVrg" targetElementIdentity="_gf9ZICmuE8q4Te73cTKVrg" type="input"></association>
+<association exportGuid="_nY-wwNt2E8q4Te73cTKVrg" identity="_sQstoNt2E8q4Te73cTKVrg" sourceElementGuid="_sUqhgIUDE8m4Te73cTKVrg" targetElementGuid="_KJehIB32E7e4Te73cTKVrg" targetElementIdentity="_D4P74PFmE7e4Te73cTKVrg" type="output"></association>
+<association exportGuid="__Xw60DUrE8u4Te73cTKVrg" identity="_A_qswDUsE8u4Te73cTKVrg" sourceElementGuid="_sUqhgIUDE8m4Te73cTKVrg" targetElementGuid="__Sm-YO8JE7i4Te73cTKVrg" targetElementIdentity="_Mw-18EmJE7m4Te73cTKVrg" type="input"></association>
+<association exportGuid="_ydfUYC-pE7u4Te73cTKVrg" identity="_zQHEIC-pE7u4Te73cTKVrg" sourceElementGuid="_Rml9IPMfE7q4Te73cTKVrg" targetElementGuid="__Sm-YO8JE7i4Te73cTKVrg" targetElementIdentity="_Mw-18EmJE7m4Te73cTKVrg" type="execute"></association>
+<association exportGuid="_5AwAAMkME724Te73cTKVrg" identity="_5zXIsMkME724Te73cTKVrg" sourceElementGuid="_buNEUItFE724Te73cTKVrg" targetElementGuid="_KJehIB32E7e4Te73cTKVrg" targetElementIdentity="_D4P74PFmE7e4Te73cTKVrg" type="execute"></association>
+</associations>
+</process>
+</pkit-data>
